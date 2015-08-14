@@ -1,0 +1,14 @@
+
+OSM Data:
+https://www.openstreetmap.org/relation/76493
+https://s3.amazonaws.com/metro-extracts.mapzen.com/colchester_england.osm.bz2
+
+
+OSM XML docmentation:
+http://wiki.openstreetmap.org/wiki/OSM_XML
+
+Other References:
+http://stackoverflow.com/questions/19087325/group-by-on-a-part-of-string-from-a-field-rather-than-the-whole-field-in-mongodb
+http://docs.mongodb.org/manual/reference/operator/query/regex/
+http://wiki.openstreetmap.org/wiki/Buildings
+http://wiki.openstreetmap.org/wiki/Tag:building%3Dsty
